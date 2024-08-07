@@ -1,0 +1,166 @@
+2024-08-05 13:17:20,687:INFO:test_e2e:getting all the cart items
+2024-08-05 13:17:20,994:INFO:test_e2e:Entering country name as ind
+2024-08-05 13:17:26,406:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-05 22:04:52,720:INFO:test_e2e:getting all the cart items
+2024-08-05 22:04:53,026:INFO:test_e2e:Entering country name as ind
+2024-08-05 22:04:58,511:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-05 22:09:53,474:INFO:test_e2e:getting all the cart items
+2024-08-05 22:09:53,663:INFO:test_e2e:Entering country name as ind
+2024-08-05 22:09:59,032:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-05 22:11:14,720:INFO:test_e2e:getting all the cart items
+2024-08-05 22:11:14,982:INFO:test_e2e:Entering country name as ind
+2024-08-05 22:11:20,443:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-05 22:18:01,911:INFO:test_e2e:getting all the cart items
+2024-08-05 22:18:02,138:INFO:test_e2e:Entering country name as ind
+2024-08-05 22:18:07,490:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-05 22:51:31,799:INFO:test_e2e:getting all the cart items
+2024-08-05 22:57:51,075:INFO:test_e2e:getting all the cart items
+2024-08-05 22:57:51,110:INFO:test_e2e:iphone X
+2024-08-05 22:57:51,127:INFO:test_e2e:Samsung Note 8
+2024-08-05 22:57:51,151:INFO:test_e2e:Nokia Edge
+2024-08-05 22:57:51,173:INFO:test_e2e:Blackberry
+2024-08-05 22:59:11,534:INFO:test_e2e:getting all the cart items
+2024-08-05 22:59:11,578:INFO:test_e2e:iphone X
+2024-08-05 22:59:11,578:INFO:test_e2e:Samsung Note 8
+2024-08-05 22:59:11,594:INFO:test_e2e:Nokia Edge
+2024-08-05 22:59:11,610:INFO:test_e2e:Blackberry
+2024-08-05 23:00:33,137:INFO:test_e2e:getting all the cart items
+2024-08-05 23:00:33,159:INFO:test_e2e:iphone X
+2024-08-05 23:00:33,167:INFO:test_e2e:Samsung Note 8
+2024-08-05 23:00:33,167:INFO:test_e2e:Nokia Edge
+2024-08-05 23:00:33,183:INFO:test_e2e:Blackberry
+2024-08-05 23:00:33,431:INFO:test_e2e:Entering country name as ind
+2024-08-05 23:00:38,811:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-05 23:14:20,859:INFO:test_formSubmission:first name is Prachi
+2024-08-05 23:14:21,600:INFO:test_formSubmission:first name is sam
+2024-08-05 23:14:21,600:INFO:test_formSubmission:first name is sam
+2024-08-05 23:17:13,994:INFO:test_formSubmission:first name is Prachi
+2024-08-05 23:17:14,897:INFO:test_formSubmission:first name is sam
+2024-08-05 23:17:14,897:INFO:test_formSubmission:first name is sam
+2024-08-05 23:17:19,443:INFO:test_e2e:getting all the cart items
+2024-08-05 23:17:19,474:INFO:test_e2e:iphone X
+2024-08-05 23:17:19,484:INFO:test_e2e:Samsung Note 8
+2024-08-05 23:17:19,493:INFO:test_e2e:Nokia Edge
+2024-08-05 23:17:19,503:INFO:test_e2e:Blackberry
+2024-08-05 23:17:19,762:INFO:test_e2e:Entering country name as ind
+2024-08-05 23:17:25,151:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-05 23:31:26,629:INFO:test_formSubmission:first name is Prachi
+2024-08-05 23:31:27,371:INFO:test_formSubmission:first name is sam
+2024-08-05 23:31:27,371:INFO:test_formSubmission:first name is sam
+2024-08-05 23:31:36,139:INFO:test_e2e:getting all the cart items
+2024-08-05 23:31:36,169:INFO:test_e2e:iphone X
+2024-08-05 23:31:36,179:INFO:test_e2e:Samsung Note 8
+2024-08-05 23:31:36,189:INFO:test_e2e:Nokia Edge
+2024-08-05 23:31:36,205:INFO:test_e2e:Blackberry
+2024-08-05 23:31:36,457:INFO:test_e2e:Entering country name as ind
+2024-08-05 23:31:42,590:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-06 11:31:30,776:INFO:test_formSubmission:first name is Prachi
+2024-08-06 11:31:31,578:INFO:test_formSubmission:first name is sam
+2024-08-06 11:31:31,578:INFO:test_formSubmission:first name is sam
+2024-08-07 10:43:00,173:INFO:test_formSubmission:first name is Prachi
+2024-08-07 10:43:00,876:INFO:test_formSubmission:first name is sam
+2024-08-07 10:43:00,876:INFO:test_formSubmission:first name is sam
+2024-08-07 10:43:14,441:INFO:test_e2e:getting all the cart items
+2024-08-07 10:43:14,483:INFO:test_e2e:iphone X
+2024-08-07 10:43:14,500:INFO:test_e2e:Samsung Note 8
+2024-08-07 10:43:14,504:INFO:test_e2e:Nokia Edge
+2024-08-07 10:43:14,516:INFO:test_e2e:Blackberry
+2024-08-07 10:43:14,786:INFO:test_e2e:Entering country name as ind
+2024-08-07 10:43:21,016:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-07 11:12:33,841:INFO:test_formSubmission:first name is Prachi
+2024-08-07 11:12:34,573:INFO:test_formSubmission:first name is sam
+2024-08-07 11:12:34,573:INFO:test_formSubmission:first name is sam
+2024-08-07 11:12:39,396:INFO:test_e2e:getting all the cart items
+2024-08-07 11:12:39,426:INFO:test_e2e:iphone X
+2024-08-07 11:12:39,436:INFO:test_e2e:Samsung Note 8
+2024-08-07 11:12:39,448:INFO:test_e2e:Nokia Edge
+2024-08-07 11:12:39,466:INFO:test_e2e:Blackberry
+2024-08-07 11:12:39,740:INFO:test_e2e:Entering country name as ind
+2024-08-07 11:12:45,233:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-07 11:18:43,748:INFO:test_formSubmission:first name is Prachi
+2024-08-07 11:18:44,471:INFO:test_formSubmission:first name is sam
+2024-08-07 11:18:44,471:INFO:test_formSubmission:first name is sam
+2024-08-07 11:18:49,707:INFO:test_e2e:getting all the cart items
+2024-08-07 11:18:49,764:INFO:test_e2e:iphone X
+2024-08-07 11:18:49,777:INFO:test_e2e:Samsung Note 8
+2024-08-07 11:18:49,794:INFO:test_e2e:Nokia Edge
+2024-08-07 11:18:49,804:INFO:test_e2e:Blackberry
+2024-08-07 11:18:50,085:INFO:test_e2e:Entering country name as ind
+2024-08-07 11:18:55,544:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-07 11:20:31,286:INFO:test_formSubmission:first name is Prachi
+2024-08-07 11:20:31,922:INFO:test_formSubmission:first name is sam
+2024-08-07 11:20:31,922:INFO:test_formSubmission:first name is sam
+2024-08-07 11:20:36,316:INFO:test_e2e:getting all the cart items
+2024-08-07 11:20:36,337:INFO:test_e2e:iphone X
+2024-08-07 11:20:36,353:INFO:test_e2e:Samsung Note 8
+2024-08-07 11:20:36,369:INFO:test_e2e:Nokia Edge
+2024-08-07 11:20:36,384:INFO:test_e2e:Blackberry
+2024-08-07 11:20:36,656:INFO:test_e2e:Entering country name as ind
+2024-08-07 11:20:42,047:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-07 15:22:35,539:INFO:test_formSubmission:first name is Prachi
+2024-08-07 15:22:36,473:INFO:test_formSubmission:first name is sam
+2024-08-07 15:22:36,473:INFO:test_formSubmission:first name is sam
+2024-08-07 15:22:42,405:INFO:test_e2e:getting all the cart items
+2024-08-07 15:22:42,442:INFO:test_e2e:iphone X
+2024-08-07 15:22:42,456:INFO:test_e2e:Samsung Note 8
+2024-08-07 15:22:42,464:INFO:test_e2e:Nokia Edge
+2024-08-07 15:22:42,486:INFO:test_e2e:Blackberry
+2024-08-07 15:22:42,813:INFO:test_e2e:Entering country name as ind
+2024-08-07 15:22:48,461:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-07 18:01:50,620:INFO:test_formSubmission:first name is Prachi
+2024-08-07 18:01:51,602:INFO:test_formSubmission:first name is sam
+2024-08-07 18:01:51,602:INFO:test_formSubmission:first name is sam
+2024-08-07 18:01:56,935:INFO:test_e2e:getting all the cart items
+2024-08-07 18:01:56,992:INFO:test_e2e:iphone X
+2024-08-07 18:01:57,001:INFO:test_e2e:Samsung Note 8
+2024-08-07 18:01:57,033:INFO:test_e2e:Nokia Edge
+2024-08-07 18:01:57,049:INFO:test_e2e:Blackberry
+2024-08-07 18:01:57,369:INFO:test_e2e:Entering country name as ind
+2024-08-07 18:02:03,119:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-07 19:54:44,518:INFO:test_formSubmission:first name is Prachi
+2024-08-07 19:54:45,545:INFO:test_formSubmission:first name is sam
+2024-08-07 19:54:45,545:INFO:test_formSubmission:first name is sam
+2024-08-07 19:54:50,030:INFO:test_e2e:getting all the cart items
+2024-08-07 19:54:50,070:INFO:test_e2e:iphone X
+2024-08-07 19:54:50,085:INFO:test_e2e:Samsung Note 8
+2024-08-07 19:54:50,095:INFO:test_e2e:Nokia Edge
+2024-08-07 19:54:50,112:INFO:test_e2e:Blackberry
+2024-08-07 19:54:50,460:INFO:test_e2e:Entering country name as ind
+2024-08-07 19:54:57,625:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-07 19:58:03,308:INFO:test_formSubmission:first name is Prachi
+2024-08-07 19:58:04,325:INFO:test_formSubmission:first name is sam
+2024-08-07 19:58:04,325:INFO:test_formSubmission:first name is sam
+2024-08-07 19:58:09,725:INFO:test_e2e:getting all the cart items
+2024-08-07 19:58:09,783:INFO:test_e2e:iphone X
+2024-08-07 19:58:09,800:INFO:test_e2e:Samsung Note 8
+2024-08-07 19:58:09,815:INFO:test_e2e:Nokia Edge
+2024-08-07 19:58:09,827:INFO:test_e2e:Blackberry
+2024-08-07 19:58:10,197:INFO:test_e2e:Entering country name as ind
+2024-08-07 19:58:15,745:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-07 21:25:14,813:INFO:test_formSubmission:first name is Prachi
+2024-08-07 21:25:16,140:INFO:test_formSubmission:first name is sam
+2024-08-07 21:25:16,140:INFO:test_formSubmission:first name is sam
+2024-08-07 21:25:23,322:INFO:test_e2e:getting all the cart items
+2024-08-07 21:25:23,385:INFO:test_e2e:iphone X
+2024-08-07 21:25:23,413:INFO:test_e2e:Samsung Note 8
+2024-08-07 21:25:23,433:INFO:test_e2e:Nokia Edge
+2024-08-07 21:25:23,442:INFO:test_e2e:Blackberry
+2024-08-07 21:25:23,790:INFO:test_e2e:Entering country name as ind
+2024-08-07 21:25:30,560:INFO:test_e2e:text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
