@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
-
+from selenium.webdriver.chrome.options import Options
 
 def pytest_addoption(parser):
     parser.addoption(
@@ -17,8 +17,11 @@ def pytest_addoption(parser):
 def setup(request):
     global driver
     browser_name=request.config.getoption("browser_name")
+    chrome_options=Options()
+    chrome_options.add_argument("--disable-headless")
+    
     if browser_name=="chrome":
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=chrome_options)
     elif browser_name=="edge":
         driver = webdriver.Edge(service=Service(EdgeChromiumDriverManager().install()))
     driver.implicitly_wait(10)
