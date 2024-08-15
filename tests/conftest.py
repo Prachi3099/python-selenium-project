@@ -13,7 +13,7 @@ def pytest_addoption(parser):
     parser.addoption(
         "--browser_name", action="store", default="chrome"
     )
-@pytest.fixture(scope="class")
+@pytest.fixture()
 def setup(request):
     global driver
     browser_name=request.config.getoption("browser_name")
@@ -21,7 +21,7 @@ def setup(request):
     chrome_options.add_argument("--disable-headless")
     
     if browser_name=="chrome":
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=chrome_options)
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager(driver_version="127").install()),options=chrome_options)
     elif browser_name=="edge":
         driver = webdriver.Edge(service=Service(EdgeChromiumDriverManager().install()))
     driver.implicitly_wait(10)
